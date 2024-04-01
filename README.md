@@ -1,5 +1,5 @@
-- 👋 Hi there
-- 👋 Welcome To My GitHub Page
+# Hi there
+# 👋 Welcome To My GitHub Page
 # About Me
 - 👀 I'm a data analyst with proficiency in data analysis tools such as Microsoft Excel, Google Sheets, SQL, Power BI, and Tableau.
 - 🌱 I have strong problem-solving, critical thinking, and communication skills, as well as the abiity to collaborate and work well in a team.
